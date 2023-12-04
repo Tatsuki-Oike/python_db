@@ -1,0 +1,7 @@
+__pycache__
+venv
+*.db
+mysql-data
+dump.rdb
+students.csv
+# config.py
